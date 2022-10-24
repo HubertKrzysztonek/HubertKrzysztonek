@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Hubert Krzysztonek 
+
+🔭 I’m currently working on BazArt
+🌱 I’m currently learning C#.
 
 <!--
 **HubertKrzysztonek/HubertKrzysztonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
