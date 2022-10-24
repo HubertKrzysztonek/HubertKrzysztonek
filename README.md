@@ -3,7 +3,7 @@ My name is Hubert Krzysztonek
 
 🔭 I’m currently working on BazArt
 🌱 I’m currently learning C#.
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+#512BD4
 
 <!--
 **HubertKrzysztonek/HubertKrzysztonek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
